@@ -9,6 +9,9 @@
 
 // promise1.then(() => {
 //     console.log("Promise1 Resolved");
+// }).catch((err) => {
+//     console.log("Error : ", err);
+
 // })
 
 
